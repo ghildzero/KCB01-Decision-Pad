@@ -1,8 +1,8 @@
 # KCB01-Decision-Pad
 Karawaci City Blessing Project
 
-initial idea : Louis Rusnadi
-Developer : Edward Hiskia 
+initial idea by Louis Rusnadi
+Developer by Edward Hiskia 
 
 This project is for children in the Church to decide what expressions they will do.
 Default there is 4 expressions they can choose:
